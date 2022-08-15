@@ -13,7 +13,7 @@
 <a name="overview"></a>
 ## &#9741; &nbsp; Overview
 
-This university project concerns the analysis of a dataset on the clicks of an advertising campaign with the aim of predicting the user's click. The phases of this project are divided into:
+This university project concerns the analysis of a dataset on the clicks of an advertising campaign with the aim of predicting the user's click. It is a project for the data science lab university course. The phases of this project are divided into:
 
 0. data preparation and reduction in dimensionality of the dataset;
 1. descriptive analysis of the dataset;
@@ -21,6 +21,8 @@ This university project concerns the analysis of a dataset on the clicks of an a
 3. evaluation of results.
 
 Random over sampling was used to predict the click to resolve the imbalance present in the data and an SVM for the actual classification.
+
+The dataset is not made available for copiright reasons.
 
 <a name="aboutus"></a>
 ## &#9741; &nbsp; About us
