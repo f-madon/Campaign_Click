@@ -13,13 +13,14 @@
 <a name="overview"></a>
 ## &#9741; &nbsp; Overview
 
-This university project is aimed at creating visualizations (interactive and static) to visually represent the data within a dataset.
+This university project concerns the analysis of a dataset on the clicks of an advertising campaign with the aim of predicting the user's click. The phases of this project are divided into:
 
-The phases carried out for this project are: cleaning the dataset, creating the views, heuristic evaluation of the views, evaluation (after the improvements made in the previous phase) through a questionnaire.
+0. data preparation and reduction in dimensionality of the dataset;
+1. descriptive analysis of the dataset;
+2. data modelling;
+3. evaluation of results.
 
-The tools used are: python, tableau, figma.
-
-The data was taken from <a href="https://www.kaggle.com/">Kaggle</a> for educational purposes.
+Random over sampling was used to predict the click to resolve the imbalance present in the data and an SVM for the actual classification.
 
 <a name="aboutus"></a>
 ## &#9741; &nbsp; About us
